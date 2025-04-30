@@ -23,7 +23,9 @@ class MyApp extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: Colors.greenAccent,
                   borderRadius: BorderRadius.circular(10),
+
                 ),
+
               ),
 
               Row(
@@ -35,6 +37,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.greenAccent,
                       borderRadius: BorderRadius.circular(10),
+
                     ),
                   ),
 
@@ -44,9 +47,13 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.greenAccent,
                       borderRadius: BorderRadius.circular(10),
+
                     ),
                   ),
+
+
                 ],
+
               ),
 
               Container(
@@ -55,7 +62,9 @@ class MyApp extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: Colors.greenAccent,
                   borderRadius: BorderRadius.circular(10),
+
                 ),
+
               ),
 
               Row(
@@ -67,6 +76,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.greenAccent,
                       borderRadius: BorderRadius.circular(10),
+
                     ),
                   ),
                   Container(
@@ -75,6 +85,7 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.greenAccent,
                       borderRadius: BorderRadius.circular(10),
+
                     ),
                   ),
                   Container(
@@ -83,8 +94,10 @@ class MyApp extends StatelessWidget {
                     decoration: BoxDecoration(
                       color: Colors.greenAccent,
                       borderRadius: BorderRadius.circular(10),
+
                     ),
                   ),
+
                 ],
               ),
               Container(
@@ -93,10 +106,16 @@ class MyApp extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: Colors.greenAccent,
                   borderRadius: BorderRadius.circular(10),
+
                 ),
+
               ),
+              
             ],
+
+            
           ),
+          
         ),
       ),
     );

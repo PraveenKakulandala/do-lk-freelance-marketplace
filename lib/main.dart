@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: SafeArea(
         child: Scaffold(
-          backgroundColor: Colors.black,
+          backgroundColor: const Color.fromARGB(255, 200, 12, 12),
           body: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [

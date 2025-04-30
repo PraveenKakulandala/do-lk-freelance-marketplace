@@ -43,3 +43,39 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+*.lock
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+
+# iOS/macOS
+ios/Flutter/Flutter.framework
+macos/Flutter/Flutter.framework
+macos/Pods/
+ios/Pods/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+
+# Windows
+windows/CMakeLists.txt
+windows/flutter/ephemeral/
+
+# Web
+web/*.js
+web/*.map
+
+# IDE
+.idea/
+.vscode/
+*.iml
